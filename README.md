@@ -23,19 +23,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7B61FF&center=true&vCenter=true&width=500&lines=Daily+problem+solving+%F0%9F%93%8A;Python+focused+%F0%9F%90%8D;Clean+and+practical+solutions+%F0%9F%A7%90" alt="Daily problem solving" />
 </p>
 
-<div align="center">
-  <pre>
-    .-^-.
-   /     \
-   |  ⚡  |
-   |  💡  |
-    \_ _/
-   /| |\\
-  /_| |_\\
-      
-  </pre>
-</div>
-
 # About
 
 This repository is a collection of daily LeetCode challenge solutions, built to sharpen problem-solving skills and keep learning momentum going.
