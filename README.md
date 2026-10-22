@@ -1,6 +1,5 @@
 <div align="center">
   <h1>
-    <span style="color:#ff6b6b;">⚡</span>
     <span style="color:#ffd93d;">L</span>
     <span style="color:#6bcf7f;">e</span>
     <span style="color:#4ecdc4;">e</span>
@@ -15,7 +14,7 @@
     <span style="color:#7b61ff;">i</span>
     <span style="color:#ff8fab;">l</span>
     <span style="color:#ff6b6b;">y</span>
-    <span style="color:#ffd93d;">✨</span>
+    
   </h1>
 </div>
 
